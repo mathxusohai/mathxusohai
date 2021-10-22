@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo. 👋 Eu sou o Matheus Machado, Desenvolvedor Jr. de Sistemas
+## Olá, seja bem-vindo(a) 👋 , eu sou o Matheus Desenvolvedor Jr de Sistemas. xD
 
 <div align="center">
   <a href="https://github.com/mathxusohai">
