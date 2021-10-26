@@ -4,8 +4,8 @@
 ##### 🙏 Everything I'm doin' now is God's plan. 
 <div align="center">
   <a href="https://github.com/mathxusohai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathxusohai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxusohai&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathxusohai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxusohai&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -16,7 +16,8 @@
   <img align="center" alt="matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="matt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="matt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+<img align="right" alt="matt-pic" height="250px" width="250px" style="border-radius:150px;" src="https://media.discordapp.net/attachments/881945872433299511/901108881663619072/download20211005105552.png?width=473&height=473">
+</div>
   
   ##
 <div> 
