@@ -1,6 +1,6 @@
 ##  Olá eu sou o Matheus Machado, Desenvolvedor Jr de Sistemas! xD 👋
 
-##### 👾 Cursando Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle.👨‍💻
+##### 👾 Cursando Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira Paulo E. Tolle.👨‍💻
 ##### 🙏 Everything I'm doin' now is God's plan.
 
 <div align="center">
@@ -20,7 +20,6 @@
 <img align="right" alt="matt-pic" height="250" style="border-radius:150px;" src="https://media.discordapp.net/attachments/881945872433299511/901108881663619072/download20211005105552.png?width=473&height=473">
 </div>
   
-  ##
 
 <div> 
   <a href="https://www.instagram.com/mathxusss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
