@@ -1,6 +1,6 @@
 ##  Olá eu sou o Matheus Machado, Desenvolvedor Jr de Sistemas! xD 👋
 
-##### 👾 Cursando Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle.👨‍💻
+##### 👾 Cursando Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle.
 ##### 🙏 Everything I'm doin' now is God's plan.
 <div align="center">
   <a href="https://github.com/rafaballerini">
