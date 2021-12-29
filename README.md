@@ -20,7 +20,7 @@
 
 
 
-<img align="right" alt="matt-pic" height="250px" width="250px" style="border-radius:150px;" src="https://media.discordapp.net/attachments/881945872433299511/901108881663619072/download20211005105552.png?width=473&height=473">
+
 </div>
   
   ##
