@@ -1,7 +1,7 @@
 ##  Olá eu sou o Matheus Machado, Desenvolvedor Jr de Sistemas! xD 👋
 
 ##### 👾 Formado em Cursos Técnico de Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle.
-##### Atually Young Apprentice IT in BGC Partners
+##### 🤝🏾 Atually Young Apprentice IT in BGC Partners.
 <div align="center">
   <a href="https://github.com/mathxusohai">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mathxusohai&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
