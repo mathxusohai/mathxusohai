@@ -2,7 +2,7 @@
 
 ##### 👾 Formado em Cursos Técnico de Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira.
 ##### 👾 Estudante de Análise e Desenvolvimento de Sistemas na Uninove
-##### 🤝🏾 Atually Young Apprentice IT in BGC Partners.
+##### 🤝🏾 Atually Electronic Trading in BGC Liquidez.
 <div align="center">
   <a href="https://github.com/mathxusohai">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mathxusohai&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
