@@ -1,4 +1,4 @@
-##  Olá eu sou o Matheus Machado, Bem vindo ao meu PerfiL! 👋
+##  Olá eu sou o Matheus Machado, Bem vindo ao meu Perfil! 👋
 
 ##### 👾 Formado em Cursos Técnico de Desenvolvimento de Sistemas e Técnico em Informática para Internet na Escola SENAI Suíço-Brasileira.
 ##### 👾 Estudante de Análise e Desenvolvimento de Sistemas na Uninove
